@@ -9,9 +9,10 @@ Trata-se de uma aplicação web que disponibiliza com antecedência o preço das
 
 # Interface Gráfica
 ## Desktop
+![desktop](https://user-images.githubusercontent.com/31786934/141848318-edf2f0b9-7b07-4dfb-83e5-86485bfc598c.png)
+
 ## Tablet
 ![tablet](https://user-images.githubusercontent.com/31786934/141848366-6972b645-c07b-43cd-bcc7-26bb19167c34.png)
-
 
 ## Mobile
 ![WhatsApp Image 2021-11-15 at 09 45 09](https://user-images.githubusercontent.com/31786934/141848412-61bc6972-9558-4d97-ae7e-3276c3f57d13.jpeg)
