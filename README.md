@@ -1,4 +1,4 @@
-# TelzirFaleMais
+# FaleMais
 Trata-se de uma aplicação web que disponibiliza com antecedência o preço das ligações que podem ser realizadas pelo plano FaleMais.
 
 # Tecnologias Utilizadas
